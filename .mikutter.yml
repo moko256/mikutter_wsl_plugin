@@ -1,0 +1,10 @@
+---
+slug: :mikutter_wsl_plugin
+depends:
+  mikutter: 3.5.9
+  plugin:
+  - web
+version: '1.0'
+author: 
+name: mikutter helper plugin for Windows Subsystem for Linux
+description: mikutterをWindows Subsystem for Linux上で使う時に便利なプラグイン
