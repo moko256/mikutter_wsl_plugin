@@ -9,5 +9,5 @@ mikutterをWindows Subsystem for Linuxで使う時に便利にします
 
 # インストール方法
 ````bash
-$ mkdir -p ~/.mikutter/plugin; https://github.com/moko256/mikutter_wsl_plugin.git ~/.mikutter/plugin/mikutter_wsl_plugin
+$ mkdir -p ~/.mikutter/plugin; git clone https://github.com/moko256/mikutter_wsl_plugin.git ~/.mikutter/plugin/mikutter_wsl_plugin
 ````
